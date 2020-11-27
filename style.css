@@ -1,0 +1,48 @@
+html{
+    background-color:white;
+    display: flex; 
+}
+
+
+body {
+
+    font-family: 'Corben', cursive;
+    padding-left: 10px;
+    padding-right: 15px;
+}
+
+
+.title {
+    text-align: center;
+    padding-bottom: 19px;
+    color: black;
+    font-size: 38px;
+}
+
+/* h1  {
+
+    text-align: center;
+    padding-bottom: 15px;
+    }
+*/
+
+img {
+    width: 650px;
+    height: auto;
+}
+
+
+
+.colors {
+    padding-left: 60px;
+    transform:rotate(90deg);  
+
+
+}
+
+td {
+    padding-left: 7px;
+}
+
+
+
